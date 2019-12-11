@@ -1,0 +1,22 @@
+{
+	"todo":
+	[
+		{
+			"task":"buy groceries",
+			"complete":true, 
+			"description":"go to supermarket"
+		},
+
+		{
+			"task":"check email",
+			"complete":false, 
+			"description":"open computer and web browser"
+		},
+
+		{
+			"task":"do homework",
+			"complete":true, 
+			"description":"math, computer science"
+		}
+	]
+}

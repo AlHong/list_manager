@@ -1,0 +1,26 @@
+#toDoOutput{
+	float: left;
+	margin-left: 5%;
+}
+
+#completedOutput{
+	float: right;
+	margin-right: 10%;
+	margin-top: -8%;
+}
+
+#fileDropArea{
+	border: 3px solid black;;
+	background-color: 	#ADD8E6;
+	width: 70%;
+	margin: 50px;
+	padding: 90px;
+	text-align: center;
+}
+
+td,th{
+    text-align: center; 
+    vertical-align: middle;
+    padding: 5px;
+}
+
